@@ -1,6 +1,6 @@
 {
-    "name": "hipsterjazzbo/landlord",
-    "description": "A simple, single database multi-tenancy solution for Laravel 5.2+",
+    "name": "ashwinmram/landlord",
+    "description": "A simple, single database multi-tenancy solution for Laravel 5.5+",
     "license": "MIT",
     "keywords": [
         "tenant",
